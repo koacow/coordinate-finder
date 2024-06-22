@@ -13,10 +13,7 @@ Accepts a .csv file with placenames under 'Facility' and exports an excel file w
 
 ```python
 input_file_path = 'path/to/your/input/file.csv'
-```
-
-```python
 export_file_name = 'name_of_your_export.xlsx
 ```
 
-3. Click Run All Cells
+3. Click Run All
