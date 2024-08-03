@@ -16,4 +16,6 @@ input_file_path = 'path/to/your/input/file.csv'
 export_file_path = 'path/to/your/input/file.csv'
 ```
 
-3. Click Run All
+3. Add your Google API key
+   
+4. Click Run All
